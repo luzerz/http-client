@@ -1,0 +1,8 @@
+temp.*
+go.sum
+.env
+.vscode
+main
+__debug_bin
+Makefile
+.idea
